@@ -14,7 +14,7 @@
 - `Token Logger 2`: Log In Using Token
 <header>
   
-# Token Logger
+# Token Logger 1
 
 <details>
   <summary>Expand</summary>
@@ -33,9 +33,11 @@ function login(token) {
 
 login(token);
   ```
+
+Replace `Your Token` with your Token.
 </details>
 
-
+# Token Logger 2
 
 <details>
   <summary>Expand</summary>
@@ -50,7 +52,7 @@ function login(token) {
 login('TOKEN');
   ```
 
-Replace 'TOKEN' with your Token.
+Replace `TOKEN` with your Token.
 </details>
 
 </header>
